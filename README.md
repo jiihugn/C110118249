@@ -32,7 +32,7 @@ Strikethrough uses two tildes.~~Seratet-this.~~
 
 ---
 - [ ] todo list
-- [ ] 2nd thing
+- [ ] 2nd things
 ---
 python code
 ```python
