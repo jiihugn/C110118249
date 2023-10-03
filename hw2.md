@@ -13,19 +13,18 @@ gantt
     撰寫使用手冊   :a7, after a5, 25d
     轉換檔案      :a8, after a5, 20d
     系統測試      :a9, after a6, 25d
-    使用者訓練    :a10, after a7, 20d
-    使用者測試    :a11, after a9, 25d
+    使用者訓練    :a10, after a7 & a8, 20d
+    使用者測試    :a11, after a9 & a10, 25d
 ```
 
 ---
 ## PERT/CPM圖
-![](image.png)
-## 關鍵路徑
 
-    
-    no3->no5
-    no4->no5
-}
-```
+![](image.png)
+
+---
+## 關鍵路徑
+1->2->4->6->9->11
+
 
 
